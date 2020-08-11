@@ -39,7 +39,7 @@
   - [Teams en ULL-ESIT-PL-1920](https://github.com/orgs/ULL-ESIT-PL-1920/teams)
 * [Solicitar Free Plan para uso educativo](https://education.github.com/discount_requests/new)
 * [Actualizar tus organizaciones de acuerdo al Free Plan concedido](https://education.github.com/benefits)
-* [support.github.com: My tickets](https://support.github.com/ticket/personal/0/)
+* [GitHub Support: My tickets](https://support.github.com/ticket/personal/0/)
 
 ## iaas.ull.es
 
