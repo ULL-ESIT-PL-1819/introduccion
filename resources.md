@@ -40,6 +40,7 @@
 * [Solicitar Free Plan para uso educativo](https://education.github.com/discount_requests/new)
 * [Actualizar tus organizaciones de acuerdo al Free Plan concedido](https://education.github.com/benefits)
 * [GitHub Support: My tickets](https://support.github.com/tickets/personal/0)
+* [GitHub Support Community](https://github.community/)
 
 ## iaas.ull.es
 
