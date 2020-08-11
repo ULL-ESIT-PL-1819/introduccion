@@ -38,7 +38,10 @@
 ### GitHub Benefits
 
 * [Solicitar Free Plan para uso educativo](https://education.github.com/discount_requests/new)
-* [Actualizar tus organizaciones de acuerdo al Free Plan concedido](https://education.github.com/benefits)
+
+* [Actualizar tus organizaciones de acuerdo al Free Plan concedido](https://education.github.com/toolbox/offers/github-org-upgrades)
+
+* [Actualizar tus organizaciones de acuerdo al Free Plan concedido](https://education.github.com/benefits) Vieja
 
 ### GitHub Help
 
