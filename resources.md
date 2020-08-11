@@ -41,6 +41,7 @@
 * [Actualizar tus organizaciones de acuerdo al Free Plan concedido](https://education.github.com/benefits)
 * [GitHub Support: My tickets](https://support.github.com/tickets/personal/0)
 * [GitHub Support Community](https://github.community/)
+* [GitHub Education Community](https://education.github.community/)
 
 ## iaas.ull.es
 
