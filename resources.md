@@ -50,6 +50,7 @@
 * [GitHub Support: My tickets](https://support.github.com/tickets/personal/0)
 * [GitHub Support Community](https://github.community/)
 * [GitHub Education Community](https://education.github.community/)
+* [Create Icon avatar for the organization](https://graduaat-iconizr.herokuapp.com/)
 
 ### GitHub 19/20
 
