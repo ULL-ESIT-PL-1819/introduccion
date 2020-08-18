@@ -13,7 +13,7 @@
 
 - <a href="{{site.horarios_examenes}}" target="_blank">Horarios de Ingeniería Informática para el curso 19/20</a>
 - <a href="{{site.horarios_tutorias}}" target="_blank">Horarios de tutorías del Departamento de Ingeniería Informática</a>
-* [Cita Previa (Google Appointments)](https://campusingenieriaytecnologia.ull.es/mod/url/view.php?id=256662)
+* [Cita Previa (Google Appointments)]({{site.cita_previa}})
 
 <br/>
 <hr>
