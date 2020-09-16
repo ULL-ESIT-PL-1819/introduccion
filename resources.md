@@ -43,10 +43,14 @@
 
 * [Actualizar tus organizaciones de acuerdo al Free Plan concedido](https://education.github.com/benefits) Vieja
 
-### GitHub Help
+### GitHub Classroom Help
 
+* [GitHub Classroom en YouTube](https://www.youtube.com/playlist?list=PLIRjfNq867bewk3ZGV6Z7a16YDNRCpK3u)
 * [GitHub Classroom Help](https://classroom.github.com/help/)
   * [Upgrading your organization](https://classroom.github.com/help/upgrade-your-organization)
+
+### GitHub Help
+
 * [GitHub Support: My tickets](https://support.github.com/tickets/personal/0)
 * [GitHub Support Community](https://github.community/)
 * [GitHub Education Community](https://education.github.community/)
